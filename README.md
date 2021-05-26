@@ -6,10 +6,5 @@ Minha paixão é a programação e até o momento tenho mais experiência em **P
 
 ---
 
-### Experiência 📚
-- Python
-
----
-
 ### Contato 📫
 E-mail: pietrogomes0411@gmail.com
