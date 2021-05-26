@@ -5,11 +5,11 @@ Pretendo me formar em Engenharia de Software e atuar desenvolvendo aplicativos.
 Minha paixão é a programação e até o momento tenho mais experiência em **Python**, porém pretendo aprender outras linguagens.
 
 ---
+
 ### Experiência 📚
 - Python
 
 ---
+
 ### Contato 📫
 E-mail: pietrogomes0411@gmail.com
-
-![](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
